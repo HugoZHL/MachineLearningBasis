@@ -1,3 +1,5 @@
 *.npy
 __pycache__
 ./scikit_learn_data
+*.csv
+*.png
